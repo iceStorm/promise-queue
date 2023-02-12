@@ -1,0 +1,1 @@
+{"version":3,"file":"UniqueQueue.d.ts","sourceRoot":"","sources":["../lib/UniqueQueue.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,KAAK,EAAE,MAAM,SAAS,CAAC;AAEhC,+EAA+E;AAC/E,qBAAa,WAAW,CAAC,CAAC,CAAE,SAAQ,KAAK,CAAC,CAAC,CAAC;IAC1C,MAAM,CAAC,QAAQ,EAAE,CAAC,GAAG,IAAI;CAyB1B"}
